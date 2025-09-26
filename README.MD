@@ -27,7 +27,7 @@ cd talent-management-demo
 pip install streamlit pandas scikit-learn matplotlib docx2txt PyPDF2
 
 ##Run the App
-streamlit run talent_demo.py
+streamlit run app.py
 
 
 ##Use the following demo credentials to access the app:
